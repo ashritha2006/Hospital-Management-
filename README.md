@@ -26,7 +26,4 @@ The Hospital Management System is a comprehensive application designed to stream
 ### Prerequisites
 - Required libraries: `sqlite3`, `pandas`, `matplotlib`, `numpy`
 
-### Installation
-1. Clone the repository:
-   git clone https://github.com/ashritha2006/Hospital-Management-System?tab=readme-ov-file
-   cd hospital-management-system
+
